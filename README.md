@@ -1,2 +1,3 @@
-# 
-word representation with prior information
+# Reference:
+
+http://sentic.net/learning-word-representations-for-sentiment-analysis.pdf
